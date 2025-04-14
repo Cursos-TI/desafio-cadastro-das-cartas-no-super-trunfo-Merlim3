@@ -17,8 +17,8 @@
         printf ("Codigo da carta: %s \n", codigo_carta);
         printf ("Nome da cidade: %s \n", cidade);
         printf ("População: %i \n", Numero_populacional);
-        printf ("Area em Km2: %.2f\n" , Area_em_km2);  // Corrigido
-        printf ("PIB: %.2f\n", PIB);  // Corrigido
+        printf ("Area em Km2: %.2f\n" , Area_em_km2); 
+        printf ("PIB: %.2f\n", PIB); 
         printf ("Numeros de pontos turisticos: %i \n",numero_de_pontos_turisticos);
 
 
@@ -38,8 +38,8 @@ char codigo_carta_2 [5] ="A02";
         printf ("Codigo da carta: %s \n", codigo_carta_2);
         printf ("Nome da cidade: %s \n", cidade_2);
         printf ("População: %i \n",  Numero_populacional_2);
-        printf ("Area em Km2: %.2f\n" , Area_em_km2_2);  // Corrigido
-        printf ("PIB: %.2f\n", PIB_2);  // Corrigido
+        printf ("Area em Km2: %.2f\n" , Area_em_km2_2);  
+        printf ("PIB: %.2f\n", PIB_2);  
         printf ("Numeros de pontos turisticos: %i \n",numero_de_pontos_turisticos_2);
 
 return 0;
